@@ -4,13 +4,6 @@
 
 Selected upstream contributions by [@benasfor](https://github.com/benasfor), focused on **software correctness, testing infrastructure, AI agent tooling and Rust-based blockchain infrastructure**.
 
-## Engineering focus
-
-- **Python testing** — Regression coverage and consistent configuration behavior.
-- **AI infrastructure** — Agent tooling and precise technical documentation.
-- **Software reliability** — Asynchronous behavior, overlapping calls and edge cases.
-- **Rust & blockchain** — Serialization, decoding and developer tooling.
-
 ## Selected upstream contributions
 
 ### Python testing · pytest-timeout
@@ -48,6 +41,13 @@ Proposes correcting the RLP decoder derive for single-field named structs, with 
 
 **Technologies:** Rust · RLP serialization  
 **Status:** Open — not merged
+
+## Engineering focus
+
+- **Python testing** — Regression coverage and consistent configuration behavior.
+- **AI infrastructure** — Agent tooling and precise technical documentation.
+- **Software reliability** — Asynchronous behavior, overlapping calls and edge cases.
+- **Rust & blockchain** — Serialization, decoding and developer tooling.
 
 ## Contribution status
 
